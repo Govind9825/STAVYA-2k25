@@ -38,7 +38,7 @@
                 font-size: 0.8rem;
     
                 span {
-                    font-size: 1.5rem;
+                    font-size: 1rem;
                     font-weight: 600;
     
                 }
@@ -50,7 +50,7 @@
                 font-size: 0.8rem;
     
                 span {
-                    font-size: 1.5rem;
+                    font-size: 1rem;
                     font-weight: 600;
                 }
             }
@@ -60,7 +60,7 @@
                 font-size: 0.8rem;
     
                 span {
-                    font-size: 1.5rem;
+                    font-size: 1rem;
                     font-weight: 600;
                 }
             }
@@ -70,11 +70,10 @@
 
     .organizers-section {
 
-        background-color: #ddd;
-        width: 100vw;
-        margin: 0;
-
+        /* margin: auto; */
         margin-bottom: 10%;
+        /* margin-left: 5%; */
+        width: 100%;
 
         h2 {
             width: fit-content;
@@ -89,22 +88,21 @@
     }
 
     .organizer-list {
-        /* display: flex;
-        justify-content: center;
-        flex-direction: column; */
         gap: 10px;
     }
 
     .organizer-image {
         background-color: #ddd;
-        width: 100px;
-        height: 100px;
+        width: 90px;
+        height: 90px;
     
         border-radius: 50%;
         margin: 0 0 10px auto;
     }
 
     .register-button {
-        font-size: 1rem;
+        font-size: 1.5rem;
+        width: 100%;
+        font-weight: bolder;
     }
 }

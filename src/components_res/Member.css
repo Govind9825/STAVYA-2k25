@@ -1,36 +1,39 @@
 @media (max-width: 500px) {
 
-    .membercard-container {
+    .member-data{
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10%;
+    }
 
-        width: 93%;
+    .memcard {
+        height: 80%;
+    }
 
-        .membercard-details {
-            height: 100%;
-            width: 70%;
+    .memtext {
+
+        h1 {
+            font-size: 1.5rem;
         }
-
-        .membercard-position {
+    
+        h2 {
+            font-size: 1.1rem;
+        }
+    
+        h5 {
+            font-size: 0.9rem;
+        }
+    
+        h4 {
             font-size: 0.8rem;
         }
-
-        .membercard-name {
-            font-size: 0.6rem;
+    
+        p {
+            font-size: 0.8rem;
         }
-
-        .membercard-batch {
-            font-size: 0.6rem;
-        }
-
-        .membercard-description {
-            font-size: 0.6rem;
-        }
-
-        .membercard-contact {
-            font-size: 0.6rem;
-        }
-
-        .membercard-social a {
-            size: 0.2rem
+    
+        .email {
+            font-size: 0.7rem;
         }
     }
 
@@ -52,7 +55,9 @@
 
     .M-logo-container .M-main-text {
         /* transform: scaleX(0.6); */
-        font-size: 4rem;
+        font-size: 3.5rem;
+        letter-spacing: 1.5px;
+        margin-left: 15%;
     }
 
     .M-line {

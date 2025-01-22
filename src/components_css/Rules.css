@@ -61,7 +61,7 @@
             font-weight: 100;
 
             span {
-                font-size: 2rem;
+                font-size: 1.5rem;
                 font-weight: 600;
 
             }
@@ -72,7 +72,7 @@
             font-weight: 100;
 
             span {
-                font-size: 2rem;
+                font-size: 1.5rem;
                 font-weight: 600;
             }
         }
@@ -81,7 +81,7 @@
             font-weight: 100;
 
             span {
-                font-size: 2rem;
+                font-size: 1.5rem;
                 font-weight: 600;
             }
         }
@@ -114,9 +114,10 @@
 }
 
 
-.rules-section ul li {
+.rules-section li {
     font-size: 1rem;
     margin: 5px 0;
+    list-style-type: none;
 }
 
 .prizes {
@@ -126,14 +127,15 @@
 
 .organizers-section {
     flex: 1;
-    min-width: 300px;
+    min-width: 62%;
     margin: 10px;
+    margin-top: 5%;
 }
 
 .organizer-list {
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 40px;
 }
 
 .organizer {

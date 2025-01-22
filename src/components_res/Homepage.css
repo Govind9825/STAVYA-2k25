@@ -1,4 +1,4 @@
-@media (max-width: 1500px) {
+/* @media (max-width: 1500px) {
     .homepage-main .stvya-logo {
         background-color: greenyellow;
         margin: -4.3% 0 0 32.2%;
@@ -7,9 +7,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 100%;
     }
-}
+} */
 
-@media (max-width: 1490px) {
+/* @media (max-width: 1490px) {
     .homepage-main .stvya-logo {
         background-color: greenyellow;
         margin: -4.3% 0 0 32.2%;
@@ -18,9 +18,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 101%;
     }
-}
+} */
 
-@media (max-width: 1480px) {
+/* @media (max-width: 1480px) {
     .homepage-main .stvya-logo {
         background-color: green;
         margin: -4.3% 0 0 32.3%;
@@ -29,9 +29,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 101%;
     }
-}
+} */
 
-@media (max-width: 1470px) {
+/* @media (max-width: 1470px) {
     .homepage-main .stvya-logo {
         background-color: red;
         margin: -4.3% 0 0 32.5%;
@@ -40,9 +40,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 102%;
     }
-}
+} */
 
-@media (max-width: 1450px) {
+/* @media (max-width: 1450px) {
     .homepage-main .stvya-logo {
         background-color: skyblue;
         margin: -4.3% 0 0 33%;
@@ -51,9 +51,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 103%;
     }
-}
+} */
 
-@media (max-width: 1430px) {
+/* @media (max-width: 1430px) {
     .homepage-main .stvya-logo {
         background-color: yellowgreen;
         margin: -4.3% 0 0 33.7%;
@@ -62,9 +62,9 @@
     .home-text .home-culxlit {
         margin: -11% 30% 0 105%;
     }
-}
+} */
 
-@media (max-width: 1400px) {
+/* @media (max-width: 1400px) {
     .homepage-main .img-div .ch-img-02 {
         width: 39%;
         margin: -17.5% 0 0 62%;
@@ -106,9 +106,9 @@
     .home-text .M-button {
         margin: 20px 0 0 100%;
     }
-}
+} */
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
     .homepage-main .stvya-logo {
         background-color: red;
         margin: -4.3% 0 0 33.7%;
@@ -118,9 +118,9 @@
         background-color: red;
         margin: -11% 30% 0 105%;
     }
-}
+} */
 
-@media (max-width: 800px) {
+@media (max-width: 500px) {
     body {
         /* background: linear-gradient(90deg, #000000, #737373); */
     }
@@ -152,6 +152,7 @@
 
     .home-text .home-shlok {
         font-size: 0.5rem;
+        margin-top: 5%;
     }
 
     .home-text .home-para {
